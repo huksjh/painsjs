@@ -1,0 +1,16 @@
+.canvas {
+  display: block;
+  margin: 50px auto;
+  width: 700px;
+  height: 700;
+  border: 1px solid #ccc;
+  -webkit-box-shadow: 5px 6px 3px -2px rgba(0, 0, 0, 0.43);
+  -moz-box-shadow: 5px 6px 3px -2px rgba(0, 0, 0, 0.43);
+  box-shadow: 5px 6px 3px -2px rgba(0, 0, 0, 0.43);
+}
+
+#canvas_controlls {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
